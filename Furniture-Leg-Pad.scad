@@ -4,13 +4,13 @@ pad_length = 23;
 // - Diameter of the pad
 pad_diameter = 36.2;
 // - Diameter of the screw head
-screw_head_diameter = 8;
+screw_head_diameter = 10;
 // - Diameter of the screw shank
-screw_shank_diameter = 4;
+screw_shank_diameter = 5;
 // - Length of the screw shank that would remain inside the pad
 screw_shank_length = 8.8;
 // - Thickness of the pad walls
-wall_thickness = 3;
+wall_thickness = 5;
 
 pad_with_screw_hole(pad_diameter, pad_length, wall_thickness, screw_head_diameter, screw_shank_diameter, screw_shank_length);
 
